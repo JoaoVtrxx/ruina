@@ -38,6 +38,13 @@ schedules:
     vegetarian: false
     coffee: false
     lunch: true
+    dinner: false
+
+  - weekday: Thu
+    restaurant: 1
+    vegetarian: false
+    coffee: false
+    lunch: false
     dinner: true
 
   - weekday: Fri
